@@ -1,3 +1,6 @@
+
+# this code contains the different types of character properties 
+
 splitstring = " this niggas has been \n split a hell lot \n of times \n tbh"
 print(splitstring)
 
