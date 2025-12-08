@@ -1,5 +1,5 @@
 import random
-
+# this guessing game is the base version of the more complicated where the machine has to guess a number between 1 to 1000 under 10 guesses
 highest = 10
 answer = random.randint(1, 10)
 print(answer) # TODO: Remove after testing
