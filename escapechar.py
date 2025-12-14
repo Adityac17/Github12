@@ -11,7 +11,7 @@ print('The pet shop said  "No \'e\'s uhhhh he\'s resting gtfo')
 #or
 print("the pet shop said \"No 'e's uhhhh he's resting gtfo" )
 
-print(""" yello niggas wat'up "sexy bitch" . """)
+print(""" yello niggas wat'up "buddy" . """)
 
 anotherSplitString = """ this string has been
 cutoof 
