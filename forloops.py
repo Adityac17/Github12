@@ -1,9 +1,10 @@
-# parrot = "Norwegian Blue"
+parrot = "Norwegian Blue"
 
-# for character in parrot:
-#     print(character)
-
-number = input("Please enter a series of number with anyu no of separators you like: ")
+for character in parrot:
+    print(character)
+    
+# Renamed 'number' to 'raw_input_string' for clarity
+raw_input_string = input("Please enter a series of number with anyu no of separators you like: ")
 sep = ""
 
 for char in number:
