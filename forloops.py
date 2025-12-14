@@ -10,5 +10,5 @@ sep = ""
 for char in number:
     if not char.isnumeric():
         sep = sep + char
-
+# another way to write line 12 is separator_list.append(char) which does exactly the same thing
 print(sep)
