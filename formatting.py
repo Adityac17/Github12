@@ -35,3 +35,18 @@ print("Pi is approximately {0:52.50f}".format( max_pie_v))
 print("Pi is approximately {0:62.50f}".format( max_pie_v))
 print("Pi is approximately {0:72.50f}".format( max_pie_v))
 
+
+
+#using f-strings to write this code similarly 
+'''
+MAX_RANGE = 13
+PI_APPROX = 22 / 7
+
+for i in range(1, MAX_RANGE):
+    print(f"No. {i:2} squared is {i**2:4} and cubed is {i**3:4}")
+
+print()
+
+for i in range(1, MAX_RANGE):
+    print(f"No. {i:2} squared is {i**2:3} and cubed is {i**3:4}")
+''' 
