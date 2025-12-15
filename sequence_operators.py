@@ -1,10 +1,10 @@
-s1 = "he's "
-s2 = "probably "
-s3 = "winning "
-s4 = "in life "
-s5 = "with that charisma "
+subject = "he's "
+adverb = "probably "
+verb = "winning "
+context = "in life "
+attribute = "with that charisma "
 
-print(s1 + s2 + s3 + s4 + s5)
+print(subject + adverb + verb + context + attribute)
 
 print("he's " "probably " "winning" " in life " "with that charisma")
 
