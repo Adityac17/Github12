@@ -15,4 +15,4 @@ today = "friday"
 print("fri" in today)
 print("day" in today)
 print("nah" in today)
-print("nigga" in today)
+print("vacation" in today)
