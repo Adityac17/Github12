@@ -14,3 +14,6 @@ if item_to_find in shopping_list:
 
 
 print("Item found at position {}".format(found_at))
+
+else:
+    print("{} was not found in the list ".format(item_to_find))
