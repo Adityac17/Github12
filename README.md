@@ -1,6 +1,6 @@
 # 🐍 Python Programming Masterclass - Learning Journey
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.9-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Course](https://img.shields.io/badge/Course-Tim_Buchalka-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-In_Progress-orange?style=for-the-badge)
 
